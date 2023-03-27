@@ -1,8 +1,1 @@
 Stoi na stacji lokomotywa. 
-Ciężka, ogromna i pot z niej spływa – tłusta oliwa. 
-ciuch, ciuch
-<<<<<<< HEAD
-lokomotywa odjezdza
-=======
-lokomotywa odjezda
->>>>>>> parent of a023562 (Revert "v444")
